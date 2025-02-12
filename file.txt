@@ -1,1 +1,2 @@
 Hello, Ritz
+This is a new feature!
