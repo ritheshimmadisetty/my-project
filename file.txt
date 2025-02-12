@@ -1,2 +1,3 @@
 Hello, Ritz
 This is a new feature!
+This is the latest Update!
